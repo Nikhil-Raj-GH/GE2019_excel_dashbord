@@ -36,4 +36,4 @@ Clone this repository to your local machine.
 
 - Data source: https://www.kaggle.com/code/lokeshrth4617/indian-election-2019-complete-analysis/input
 
-------------------------------------------------------------THANKYOU FOR VISITING :)--------------------------------------------------
+------------------------------------------------------THANKYOU FOR VISITING :)---------------------------------------------
